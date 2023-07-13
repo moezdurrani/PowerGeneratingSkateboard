@@ -1,6 +1,6 @@
 # Power-Generating-Skate-board
 
-You can view it in 3D [here](https://github.com/moezdurrani/Suspension).
+You can view it in 3D [here](https://moezdurrani.github.io/3DModelsWebsite/).
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/103555283/199858161-784beb51-b7e5-480a-add2-358da3711aae.gif)
 
