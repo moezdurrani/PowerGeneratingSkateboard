@@ -1,4 +1,4 @@
-# Power-Generating-Skate-board
+# Power Generating Skateboard
 
 You can view it in 3D [here](https://moezdurrani.github.io/3DModelsWebsite/).
 
