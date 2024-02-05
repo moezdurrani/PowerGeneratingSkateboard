@@ -1,6 +1,7 @@
 # Power Generating Skateboard
 
 <a href="https://moezdurrani.github.io/3DModelsWebsite/" target="_blank"><img src="https://img.shields.io/badge/3D-View-blue?style=for-the-badge&logo=github" alt="3D View"></a>
+<a href="https://moezdurrani.com/" target="_blank"><img src="https://img.shields.io/badge/3D-View-blue?style=for-the-badge&logo=github" alt="Portfolio"></a>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/103555283/199858161-784beb51-b7e5-480a-add2-358da3711aae.gif" width="50%" />
